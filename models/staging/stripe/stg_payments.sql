@@ -7,4 +7,4 @@ select
     AMOUNT/100 as amount,
     CREATED as created_on
     
-from {{source('stripe','payments')}}
+from {{source('stripe','payment')}}
