@@ -1,6 +1,13 @@
 Welcome to your new dbt project!
 
-### Using the starter project
+### Implemented Data flow from AWS - Snowflake & Data Transformations using dbt
+
+#### Learnings
+ - Enables Data Engineers work like a Software Engineers
+ - Build reusable models as sqls
+ - Build tests, macros and run them
+ - Power to generate documents in parallel
+ - Use packages with models & macros
 
 Try running the following commands:
 - dbt run
