@@ -15,6 +15,7 @@ Try running the following commands:
 
 
 ### Resources:
+- Snowflake - https://www.udemy.com/course/snowflake-zero-to-hero-masterclass/
 - Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
 - Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
 - Join the [chat](http://slack.getdbt.com/) on Slack for live discussions and support
