@@ -1,4 +1,4 @@
-Welcome to my new dbt project!
+Welcome to my new dbt project! Please note that Learning is always WIP
 
 ### Implemented Data flow from AWS - Snowflake & Data Transformations using dbt
 
