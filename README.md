@@ -8,6 +8,7 @@ Welcome to my new dbt project! Please note that Learning is always WIP
  - Build tests, macros and run them
  - Power to generate documents in parallel
  - Use packages with models & macros
+ - SQL on steroids with Jinja
 
 Try running the following commands:
 - dbt run
